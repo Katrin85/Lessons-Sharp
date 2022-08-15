@@ -30,19 +30,19 @@ namespace Урок_2._1
                 string action = Console.ReadLine();
                 if (action == "+")
                     Console.WriteLine(one + two);
-                if (action == "-")
+                else if (action == "-")
                     Console.WriteLine(one - two);
-                if (action == "*")
+                else if (action == "*")
                     Console.WriteLine(one * two);
-                if (action == "/")
+                else if (action == "/")
                     if (two == 0)
                         Console.WriteLine("ОШИБКА! На 0 делить НЕЛЬЗЯ!");
                     else
                         Console.WriteLine(one / two);
                 else
                     Console.WriteLine("Я не знаю такого действия, попробуйте еще раз");
-            
-   
+
+                Console.ReadLine();
             }    
 
         }
