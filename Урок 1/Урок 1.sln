@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 1", "Урок 1.csproj", "{12934BD3-8633-4590-845C-E709A904FA95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Урок 1", "Урок 1.csproj", "{12934BD3-8633-4590-845C-E709A904FA95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 2", "..\Урок 2\Урок 2.csproj", "{A2C49D22-F814-4BD1-94F4-26D3EDF42E80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Урок 2", "..\Урок 2\Урок 2.csproj", "{A2C49D22-F814-4BD1-94F4-26D3EDF42E80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 3", "..\Урок 3\Урок 3.csproj", "{C67FD303-A811-4D62-8899-92F675E38516}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Урок 3", "..\Урок 3\Урок 3.csproj", "{C67FD303-A811-4D62-8899-92F675E38516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 2.1", "..\Урок 2.1\Урок 2.1.csproj", "{A754CDB7-5BFF-4CB1-932E-2D9BE2293825}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{C67FD303-A811-4D62-8899-92F675E38516}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C67FD303-A811-4D62-8899-92F675E38516}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C67FD303-A811-4D62-8899-92F675E38516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A754CDB7-5BFF-4CB1-932E-2D9BE2293825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A754CDB7-5BFF-4CB1-932E-2D9BE2293825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A754CDB7-5BFF-4CB1-932E-2D9BE2293825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A754CDB7-5BFF-4CB1-932E-2D9BE2293825}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
