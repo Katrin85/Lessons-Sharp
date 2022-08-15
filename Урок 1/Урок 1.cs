@@ -28,6 +28,7 @@
 //        break;
 //}
 
+
 Console.Write("Введите символ с клавиатуры: ");
 ConsoleKey consoleKey = Console.ReadKey().Key;
 Console.WriteLine();
