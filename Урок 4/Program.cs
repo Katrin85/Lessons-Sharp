@@ -10,8 +10,9 @@ namespace Урок_4
     {
         static void Main(string[] args)
         {
+            //Урок 4
             int i = 0;
-            for ( ; i < 3; i++)
+            for (; i < 3; i++)
             {
                 Console.WriteLine("for_1:" + i);
             }
