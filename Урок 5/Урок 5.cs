@@ -13,18 +13,17 @@ namespace Урок_5
             // break
 
             for (int i = 0; i < 100; i++)
-            { 
+            {
                 string msg = Console.ReadLine();
 
                 if (msg == "exit")
-                { 
+                {
                     break;
                 }
 
                 Console.WriteLine(i);
             }
             Console.ReadLine();
-            
         }
     }
 }
