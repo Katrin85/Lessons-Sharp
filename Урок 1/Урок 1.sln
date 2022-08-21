@@ -3,35 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Урок 1", "Урок 1.csproj", "{12934BD3-8633-4590-845C-E709A904FA95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Урок 01", "Урок 01.csproj", "{12934BD3-8633-4590-845C-E709A904FA95}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Урок 2", "..\Урок 2\Урок 2.csproj", "{A2C49D22-F814-4BD1-94F4-26D3EDF42E80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Урок 02", "..\Урок 2\Урок 02.csproj", "{A2C49D22-F814-4BD1-94F4-26D3EDF42E80}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Урок 3", "..\Урок 3\Урок 3.csproj", "{C67FD303-A811-4D62-8899-92F675E38516}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Урок 03", "..\Урок 3\Урок 03.csproj", "{C67FD303-A811-4D62-8899-92F675E38516}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 2.1", "..\Урок 2.1\Урок 2.1.csproj", "{A754CDB7-5BFF-4CB1-932E-2D9BE2293825}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 02.1", "..\Урок 2.1\Урок 02.1.csproj", "{A754CDB7-5BFF-4CB1-932E-2D9BE2293825}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 4", "..\Урок 4\Урок 4.csproj", "{FA93DFFD-8928-497D-AC71-AB73F00E5F6D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 04", "..\Урок 4\Урок 04.csproj", "{FA93DFFD-8928-497D-AC71-AB73F00E5F6D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Песочница", "..\Песочница\Песочница.csproj", "{306E9BC9-D685-48E8-8463-AF0C976D49D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 5", "..\Урок 5\Урок 5.csproj", "{D7A9FF52-0E02-4299-9F98-EE5906F00CB7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 05", "..\Урок 5\Урок 05.csproj", "{D7A9FF52-0E02-4299-9F98-EE5906F00CB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 6", "..\Урок 6\Урок 6.csproj", "{7E3CCF77-4CBA-4F0C-ACEA-77F1D11DE022}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 06", "..\Урок 6\Урок 06.csproj", "{7E3CCF77-4CBA-4F0C-ACEA-77F1D11DE022}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 7", "..\Урок 7\Урок 7.csproj", "{8B0F468A-52B1-4646-A243-C42E97E24F70}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 07", "..\Урок 7\Урок 07.csproj", "{8B0F468A-52B1-4646-A243-C42E97E24F70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 7.1", "..\Урок 7.1\Урок 7.1.csproj", "{151B71A3-03DB-4585-BDF5-4D3027366556}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 07.1", "..\Урок 7.1\Урок 07.1.csproj", "{151B71A3-03DB-4585-BDF5-4D3027366556}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 7.2", "..\Урок 7.2\Урок 7.2.csproj", "{170E5136-7645-44F2-ADB1-115784A9FF41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 07.2", "..\Урок 7.2\Урок 07.2.csproj", "{170E5136-7645-44F2-ADB1-115784A9FF41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 7.3", "..\Урок 7.3\Урок 7.3.csproj", "{DCFF037E-38F0-41A1-9B10-2F1240B8978B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 07.3", "..\Урок 7.3\Урок 07.3.csproj", "{DCFF037E-38F0-41A1-9B10-2F1240B8978B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 8", "..\Урок 8\Урок 8.csproj", "{1745180B-C25E-4AF7-8C4B-0AFFDCE73F0C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 08", "..\Урок 8\Урок 08.csproj", "{1745180B-C25E-4AF7-8C4B-0AFFDCE73F0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 9", "..\Урок 9\Урок 9.csproj", "{CD9A3062-F0EE-4232-A73C-226D72688B19}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 09", "..\Урок 9\Урок 09.csproj", "{CD9A3062-F0EE-4232-A73C-226D72688B19}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 10", "..\Урок 10\Урок 10.csproj", "{2F9BBBA2-115F-45BA-9ED2-94F8E4E8C835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 11", "..\Урок 11\Урок 11.csproj", "{9CE6D2FE-B220-40B0-B923-71D9E3D25CB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{2F9BBBA2-115F-45BA-9ED2-94F8E4E8C835}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F9BBBA2-115F-45BA-9ED2-94F8E4E8C835}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F9BBBA2-115F-45BA-9ED2-94F8E4E8C835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CE6D2FE-B220-40B0-B923-71D9E3D25CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE6D2FE-B220-40B0-B923-71D9E3D25CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE6D2FE-B220-40B0-B923-71D9E3D25CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE6D2FE-B220-40B0-B923-71D9E3D25CB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
